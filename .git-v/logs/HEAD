@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f11562a32ff1985cd8f4075dec89aeac76adb2bc Jesus Picornell <jesus.picornell@gmail.com> 1592819124 +0200	clone: from https://github.com/CursEines/BoxaCavallers.git
+f11562a32ff1985cd8f4075dec89aeac76adb2bc 8b2aad810fb9f83af172fcfb47ade1202f14ff49 Jesus Picornell <jesus.picornell@gmail.com> 1592819288 +0200	checkout: moving from master to master_Java
+8b2aad810fb9f83af172fcfb47ade1202f14ff49 77c630f029c84ea9142308f1e58616fc58e4adae Jesus Picornell <jesus.picornell@gmail.com> 1592819712 +0200	checkout: moving from master_Java to atacBugfix_Java
+77c630f029c84ea9142308f1e58616fc58e4adae 8b2aad810fb9f83af172fcfb47ade1202f14ff49 Jesus Picornell <jesus.picornell@gmail.com> 1592819719 +0200	checkout: moving from atacBugfix_Java to master_Java
+8b2aad810fb9f83af172fcfb47ade1202f14ff49 85e8c5d4817a0aaddf6156d11c8d69389cd86bf1 Jesus Picornell <jesus.picornell@gmail.com> 1592819774 +0200	merge atacBugfix_Java: Merge made by the 'recursive' strategy.
